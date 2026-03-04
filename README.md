@@ -23,7 +23,7 @@ dashboard, office visualization, win/lose states.
 
 
 
-# 🚀 StartupSim
+# StartupSim
 
 A turn-based startup simulation game built with **Next.js 15**, **Supabase**, **Tailwind CSS**, and **Recharts**.
 
@@ -31,7 +31,7 @@ Players make quarterly business decisions — pricing, hiring, and salaries — 
 
 ---
 
-## 🎮 How to Play
+## How to Play
 
 1. Sign up with any email and password
 2. Each turn represents one quarter (Q1–Q4 per year)
@@ -46,7 +46,7 @@ Players make quarterly business decisions — pricing, hiring, and salaries — 
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Layer | Technology |
 |---|---|
@@ -59,7 +59,7 @@ Players make quarterly business decisions — pricing, hiring, and salaries — 
 
 ---
 
-## ⚙️ Local Setup
+## Local Setup
 
 ### 1. Clone & Install
 ```bash
