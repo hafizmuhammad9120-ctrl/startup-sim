@@ -63,6 +63,6 @@ Players make quarterly business decisions — pricing, hiring, and salaries — 
 
 ### 1. Clone & Install
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/hafizmuhammad9120-ctrl/startup-sim
 cd startup-sim
 npm install
